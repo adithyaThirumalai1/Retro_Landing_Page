@@ -1,15 +1,15 @@
 /* Setting up fonts for the project */
 @font-face {
     font-family: Canopee;
-    src: url(../fonts/ttf/Canopee.ttf);
+    src: url(./fonts/ttf/Canopee.ttf);
 }
 @font-face {
     font-family: Domaine;
-    src: url(../fonts/ttf/Domaine.ttf);
+    src: url(./fonts/ttf/Domaine.ttf);
 }
 @font-face {
     font-family: Editorial-Light;
-    src: url(../fonts/ttf/EditorialLight.ttf);
+    src: url(./fonts/ttf/EditorialLight.ttf);
 }
 
 /* Initializing */
