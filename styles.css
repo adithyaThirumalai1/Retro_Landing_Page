@@ -1,7 +1,7 @@
 /* Setting up fonts for the project */
 @font-face {
     font-family: Canopee;
-    src: url(/fonts/ttf/Canopee.ttf);
+    src: url(Retro_Landing_Page/fonts/ttf/Canopee.ttf);
 }
 @font-face {
     font-family: Domaine;
