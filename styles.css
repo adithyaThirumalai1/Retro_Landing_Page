@@ -166,6 +166,9 @@ html,body{
 #img_div:hover img{
     scale: 1.1;
 }
+#heading{
+    width: 100%;
+}
 #heading h1{
     font-size: 69vh;
     letter-spacing: -2.7vh;
